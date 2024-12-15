@@ -30,7 +30,7 @@ The subnet mask also defines two special addresses:
 - **Broadcast Address**: The highest address, used to communicate with all devices in the network.
 These addresses cannot be assigned to individual hosts.
 
-![](https://www.packetcoders.io/content/images/2019/05/image1-4.png)
+![](https://www.connecteddots.online/images/blogimgs/IP%20Address%20192-168-0-1%20Subnet%20Mask%20255-255-255-0.png)
 
 ### Subnet Mask Chart
 Here’s a reference table to assist with subnetting. This shows the available subnets and host ranges for common subnet masks.
