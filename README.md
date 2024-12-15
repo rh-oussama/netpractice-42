@@ -20,7 +20,7 @@ An **IP address** (for IPv4) is a 32-bit number represented in four octets, wher
 - **Network**: Identifies the network the IP address belongs to (e.g., street name).
 - **Host**: Identifies the specific device within the network (e.g., house number).
 
-![](https://www.articlediary.com/assets/ip-address.jpg)
+![](https://miro.medium.com/v2/resize:fit:700/1*eApdgbbjRZhMVLfdywMTLg.png)
 
 ### What is Subnet Mask?
 A **subnet mask** is a 32-bit number that divides an IP address into the network and host portions. This is done by setting the network bits to 1 and the host bits to 0. Subnet masks are crucial in determining how many hosts and networks can be created within a given address space.
