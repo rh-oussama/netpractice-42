@@ -85,5 +85,3 @@ Hosts/Net: 254                   (Private Internet)
 - [avinetworks.com](https://avinetworks.com/glossary/subnet-mask/) – Glossary of Subnet Mask.
 - [packetcoders.io](https://www.packetcoders.io/a-beginners-guide-to-subnetting/) – A Beginner’s Guide to Subnetting.
 
-📝 License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
