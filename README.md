@@ -3,8 +3,6 @@
 ## 🪧 Overview
  🌐 **NetPractice** is a practical exercise designed to help you explore and understand networking concepts. This project provides hands-on experience in configuring IP addresses, subnet masks, and related network components.
 
-### 📷 Preview
-![preview](imgs/preview.png)
 
 ### 🕹️ Usage
 1. **Levels**: There are 10 levels available for training.
